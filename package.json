@@ -1,0 +1,20 @@
+{
+  "name": "arstechinca-privacy-articles",
+  "version": "1.0.0",
+  "description": "A scraper to download all the articles related to a given keyword on ArsTechnica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arsTechnica",
+    "scraper",
+    "privacy"
+  ],
+  "author": "Michele Invernizzi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "nightmare": "^2.9.1",
+    "underscore": "^1.8.3"
+  }
+}
